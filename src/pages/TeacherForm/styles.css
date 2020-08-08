@@ -35,6 +35,7 @@
     font: 700 2.4rem Archivo;
     color: var(--color-text-title);
     margin-bottom: 2.4rem;
+    display: -moz-box;
     display: flex;
     align-items: center;
     justify-content: space-between;

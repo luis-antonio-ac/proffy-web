@@ -55,4 +55,4 @@ function TeacherList() {
     )
 }
 
-export default TeacherList
+export { TeacherList }

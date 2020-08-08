@@ -17,6 +17,10 @@
     overflow: hidden;
 }
 
+#page-teacher-form main fieldset .input-block + .textarea-block{
+    margin-top: 2.4rem;
+}
+
 #page-teacher-form main fieldset {
     border: 0;
     padding: 0 2.4rem;

@@ -34,4 +34,4 @@ function TeacherItem() {
     )
 }
 
-export default TeacherItem
+export { TeacherItem }
